@@ -4,6 +4,7 @@
 // [Ground] ---- [10k-Resister] -------|------- [Thermistor] ---- [+5v]
 //                                     |
 //                                Analog Pin 0
+//will this also work for several temperatures?
 
 double Thermistor(int RawADC) {
 // Inputs ADC Value from Thermistor and outputs Temperature in Celsius
