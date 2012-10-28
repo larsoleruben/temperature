@@ -1,5 +1,7 @@
 #! /usr/bin/python
-
+#*************************************************************************************************************
+#l.christoffersen@rubenc.dk disclaimer bla bla bla don't use for control of neuclar reactors
+#*************************************************************************************************************
 import serial
 from cosm import Cosm
 FEED = "68554"
